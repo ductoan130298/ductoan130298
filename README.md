@@ -1,39 +1,43 @@
-# Hi there, I'm Toan 👋
+# Hi there, I'm Toan, MSc, CMT 👋
 
-### 📈 Data Scientist | Financial Engineering Enthusiast
-I specialize in bridging the gap between **Quantitative Finance** and **Data Science**. My work focuses on leveraging mathematical models and machine learning to extract insights from financial markets.
-
----
-
-### 🛠 Technical Stack
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-- **Data Science:** `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow/PyTorch`, `Statsmodels`
-- **Financial Engineering:** `yfinance`, `QuantLib`, `PyPortfolioOpt`, `Backtrader`, `Risk-Mgmt`
-- **Visualization:** `Matplotlib`, `Seaborn`, `Plotly (Interactive)`
+### 📊 Master of Data Science & Financial Engineering | CMT® Charterholder
+I bridge the gap between **Quantitative Finance** and **Technical Analysis**. As a CMT Charterholder, I focus on building data-driven trading strategies and risk management frameworks, primarily using **Google Colab** for rapid prototyping and financial research.
 
 ---
 
-### 🚀 Featured Financial Projects
-
-#### 1. [Project Title - e.g., Multi-Factor Portfolio Optimization]
-*Quantitative analysis of asset allocation using Mean-Variance Optimization and Black-Litterman models.*
-- **Keywords:** Risk Management, Efficient Frontier, Sharpe Ratio.
-- [🔗 View Repository](link-to-your-repo) | [🚀 Open in Colab](link-to-your-colab)
-
-#### 2. [Project Title - e.g., Time-Series Forecasting for Equities]
-*Predicting stock volatility using GARCH models and LSTM Neural Networks.*
-- **Keywords:** Deep Learning, Time Series, Volatility Clustering.
-- [🔗 View Repository](link-to-your-repo) | [🚀 Open in Colab](link-to-your-colab)
+### 🛠 My Quantitative & Technical Toolkit
+- **Specialties:** Market Geometry, Statistical Arbitrage, Systematic Trading, Risk Management.
+- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) (Research-oriented coding)
+- **Data Stack:** `Pandas`, `Scikit-learn`, `Statsmodels`, `Vectorbt` (Backtesting), `yfinance`.
+- **Environment:** `Google Colab` (Primary), `Jupyter Notebook`.
 
 ---
 
-### 📊 GitHub Statistics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=dark&hide_border=true)
+### 🚀 Financial Research & Projects (Google Colab)
+
+#### 1. [Project Title - e.g., Quantitative Validation of CMT Strategies]
+*Using Python to backtest classic Technical Analysis patterns and validate their statistical significance.*
+- **Keywords:** Hypothesis Testing, Backtesting, Technical Indicators.
+- [🚀 Open in Colab](link-to-your-colab) | [🔗 View Repo](link-to-your-repo)
+
+#### 2. [Project Title - e.g., Machine Learning for Market Regime Detection]
+*Identifying trending vs. mean-reverting market phases using Clustering techniques.*
+- **Keywords:** Unsupervised Learning, Market Regime, Risk Allocation.
+- [🚀 Open in Colab](link-to-your-colab) | [🔗 View Repo](link-to-your-repo)
 
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** [yourname@email.com](mailto:yourname@email.com)
-- **Medium/Blog:** [Your Blog Link if any]
+### 🎓 Professional Credentials
+- **CMT® Charterholder** (Technical Analysis Mastery)
+- **MSc in Data Science & Financial Engineering**
+
+---
+
+### 📊 GitHub Activity
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=nord&hide_border=true)
+
+---
+
+### 📫 Let's talk Markets:
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [Your Email]
