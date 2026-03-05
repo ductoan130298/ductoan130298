@@ -41,3 +41,12 @@ I bridge the gap between **Quantitative Finance** and **Technical Analysis**. As
 ### 📫 Let's talk Markets:
 - **LinkedIn:** [Your LinkedIn Profile]
 - **Email:** [Your Email]
+
+---
+
+### 🎯 Why Work With Me?
+| Quantitative Science | Technical Analysis (CMT) | Business Value |
+| :--- | :--- | :--- |
+| Machine Learning / AI | Pattern Recognition | Data-Driven Decisions |
+| Statistical Backtesting | Market Geometry | Risk-Adjusted Returns |
+| Time-Series Analysis | Trend & Momentum | Strategy Automation |
