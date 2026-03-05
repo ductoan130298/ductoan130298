@@ -34,7 +34,7 @@ I bridge the gap between **Quantitative Finance** and **Technical Analysis**. As
 ---
 
 ### 📊 GitHub Activity
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=nord&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ductoan130298&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
